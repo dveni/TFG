@@ -17,7 +17,7 @@ The code is mainly written using jupyter notebooks and it's organized following 
 
 The main notebooks are depicted in this figure:
 
-![Notebooks diagram](images/TFGRepo)
+![Notebooks diagram](images/TFGRepo.png)
 
 * JSON-to-Dataframes.ipynb get the tweets from data/JSONFiles and convert all of them into a single CSV file. Also, it creates a CSV file with the location info of the tweets.
 * Preprocess.ipynb gets the target CSVFiles, preprocess them as needed and creates a pickel file in data/temp
