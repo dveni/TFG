@@ -33,6 +33,5 @@ There are also other notebooks and scripts:
 * transfer_learning_model_for_image_recognition.ipynb is a work done by Alberto Sánchez (@sanxlop) and I use it to classify the food in twitter images into 101 categories.
 
 Important final notes:
-* All datasets(.csv) used in this work are provided in data/CSVFiles
-* Also, a representative small dataset is provided for quick experimentation of the project workflow (smallData)
-* It's possible some notebooks fails because they don't find a library or a path, but it should be easy to fix.
+* All datasets(.csv) used in this work are provided upon previous request
+* It's possible that some notebooks fail because they don't find a library or a path, but it should be easy to fix.
